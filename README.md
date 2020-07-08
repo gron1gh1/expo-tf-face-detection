@@ -6,6 +6,6 @@ Realtime Face Detection in React Native
 ```bash
 npm install -g expo-cli
 
-expo install
+yarn install
 expo start
 ```
